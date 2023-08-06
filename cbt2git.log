@@ -1,0 +1,5 @@
+2023-08-06 03:25:31.530519 - Initialized conversion of CBT326
+2023-08-06 03:25:31.549143 - Received CBT.V505.FILE326.PDS from FILE326.XMI 
+2023-08-06 03:25:31.551189 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE326.PDS, moved to PDS/$$$#DATE
+2023-08-06 03:25:31.552549 - Found @FILE326.txt (text/plain) in CBT.V505.FILE326.PDS, moved to PDS/@FILE326
+2023-08-06 03:25:31.553696 - Found DESCRIPT.txt (text/plain) in CBT.V505.FILE326.PDS, moved to PDS/DESCRIPT
